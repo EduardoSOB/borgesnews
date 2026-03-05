@@ -13,6 +13,10 @@
       "dest": "/api/$1"
     },
     {
+      "src": "/(google.*\\.html|sitemap\\.xml|robots\\.txt)",
+      "dest": "/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
