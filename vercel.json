@@ -3,6 +3,9 @@
   "public": true,
   "cleanUrls": true,
   "trailingSlash": false,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
   "rewrites": [
     { "source": "/(google.*\\.html|sitemap\\.xml|robots\\.txt)", "destination": "/$1" },
     { "source": "/(.*)", "destination": "/index.html" }
