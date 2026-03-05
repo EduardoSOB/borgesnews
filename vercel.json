@@ -1,24 +1,15 @@
 {
-  "buildCommand": "pnpm build",
-  "devCommand": "pnpm dev",
-  "installCommand": "pnpm install",
   "framework": "vite",
+  "buildCommand": "pnpm build",
   "outputDirectory": "dist",
-  "env": {
-    "NODE_ENV": "production"
-  },
-  "routes": [
+  "rewrites": [
     {
-      "src": "^/api/(.*)",
-      "dest": "/api/$1"
+      "source": "/(google.*\\.html|sitemap\\.xml|robots\\.txt)",
+      "destination": "/$1"
     },
     {
-      "src": "/(google.*\\.html|sitemap\\.xml|robots\\.txt)",
-      "dest": "/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
