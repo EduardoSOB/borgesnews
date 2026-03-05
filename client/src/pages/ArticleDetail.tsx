@@ -119,11 +119,14 @@ export default function ArticleDetail() {
         <div className="container py-12">
           {/* Hero Image */}
           <div className="relative h-96 rounded-lg overflow-hidden border border-slate-700 mb-8">
-            <img
-              src={article.image}
-              alt={article.title}
-              className="w-full h-full object-cover"
-            />
+              <img
+                src={article.image}
+                alt={article.title}
+                className="w-full h-96 object-cover rounded-lg mb-2"
+              />
+              {article.image_source && (
+                <p className="text-sm text-slate-500 text-center mb-6">Fonte da Imagem: {article.image_source}</p>
+              )}
             <div className="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent"></div>
             {isBreakingNews && (
               <div className="absolute top-4 right-4">
@@ -203,21 +206,7 @@ export default function ArticleDetail() {
                 </p>
               </div>
 
-              {/* Reading Statistics */}
-              <div className="grid grid-cols-3 gap-4 my-8">
-                <div className="bg-slate-800 border border-slate-700 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-red-500">{Math.ceil(article.content.length / 100)}</div>
-                  <div className="text-xs text-slate-400 mt-1">Minutos de leitura</div>
-                </div>
-                <div className="bg-slate-800 border border-slate-700 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-blue-500">{article.content.length}</div>
-                  <div className="text-xs text-slate-400 mt-1">Caracteres</div>
-                </div>
-                <div className="bg-slate-800 border border-slate-700 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-green-500">{Math.ceil(article.content.split(' ').length)}</div>
-                  <div className="text-xs text-slate-400 mt-1">Palavras</div>
-                </div>
-              </div>
+
             </div>
           </div>
         </div>
@@ -267,7 +256,7 @@ export default function ArticleDetail() {
       <footer className="border-t border-slate-700 bg-slate-900 py-8">
         <div className="container">
           <div className="text-center text-slate-500 text-sm">
-            <p>© 2026 EUA-Irã News Hub. Cobertura Especial de Notícias Internacionais.</p>
+            <p>© 2026 BorgesNews. Cobertura Especial de Notícias Internacionais.</p>
             <p className="mt-2">Atualizações em tempo real sobre o conflito no Oriente Médio</p>
           </div>
         </div>

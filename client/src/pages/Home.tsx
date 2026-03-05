@@ -105,7 +105,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="w-3 h-3 bg-red-500 rounded-full animate-pulse"></div>
-              <h1 className="text-2xl font-bold text-white">EUA-Irã News Hub</h1>
+              <h1 className="text-2xl font-bold text-white">BorgesNews</h1>
             </div>
             <div className="text-sm text-slate-400">Cobertura Especial • Março 2026</div>
           </div>
