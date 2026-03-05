@@ -1,0 +1,207 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Operações Militares: Dia 1 do Conflito",
+      "category": "Militar",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "Relatório detalhado das movimentações de tropas, ataques aéreos e baixas no 1º dia de guerra.",
+      "content": "No 1º dia do conflito, as operações militares atingiram um novo nível de complexidade e escala sem precedentes. As forças dos EUA e Israel focaram em ataques surpresa coordenados a Teerã, visando infraestrutura militar crítica e centros de comando. O Irã respondeu com mobilização total de suas forças armadas, ativando a Guarda Revolucionária Islâmica e unidades de defesa aérea em todo o território nacional. O balanço militar aponta para o início das hostilidades com centenas de sorties aéreas, mísseis de cruzeiro lançados de navios no Golfo Pérsico e ataques coordenados de múltiplas plataformas. As perdas iniciais foram significativas de ambos os lados, com relatos de pilotos derrubados e sistemas de defesa destruídos. A intensidade dos ataques superou as expectativas dos analistas militares internacionais.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 2,
+      "title": "Crise Humanitária: Impacto Civil no Dia 1",
+      "category": "Humanitário",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "A situação da população civil e os esforços de ajuda humanitária durante o 1º dia de hostilidades.",
+      "content": "A crise humanitária se agravou dramaticamente no 1º dia do conflito. Relatos da ONU indicam que os ataques surpresa a Teerã e outras cidades iranianas deixaram centenas de civis feridos e desabrigados. Milhares de pessoas em Teerã, Qom e outras grandes cidades estão sem acesso a serviços básicos como água, eletricidade e assistência médica. Hospitais foram danificados e equipes médicas trabalham em condições extremas. A comunidade internacional tenta mobilizar recursos humanitários, mas as linhas de comunicação estão comprometidas. Agências de ajuda humanitária relatam dificuldades em acessar áreas afetadas. O ICRC (Comitê Internacional da Cruz Vermelha) solicitou acesso a civis feridos e prisioneiros de guerra, mas enfrenta obstáculos logísticos. Estima-se que dezenas de milhares de pessoas necessitam de assistência humanitária urgente.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 3,
+      "title": "Geopolítica em Foco: Mudanças no Cenário Global - Dia 1",
+      "category": "Análise Geopolítica",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "Como as alianças internacionais estão se reconfigurando no 1º dia da guerra EUA-Irã.",
+      "content": "O 1º dia trouxe mudanças significativas na diplomacia global e nas alianças internacionais. A ONU expressou preocupação com a escalada militar sem precedentes. O BRICS (Brasil, Rússia, Índia, China e África do Sul) e a OTAN estão em rota de colisão sobre a condução do conflito, com posições diametralmente opostas. A Rússia condenou os ataques dos EUA, enquanto China apela por negociações. A ordem mundial parece estar no início de uma reconfiguração geopolítica profunda. Países do Oriente Médio enfrentam pressão para escolher lados. Alguns aliados tradicionais dos EUA, como a Arábia Saudita, adotam posições mais cautelosas. A Europa está dividida, com alguns países apoiando os EUA enquanto outros pedem moderação. As implicações para a segurança global são profundas e ainda estão se desdobrando.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 4,
+      "title": "Dossiê Nuclear: Status das Instalações no Dia 1",
+      "category": "Segurança Nuclear",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "Monitoramento das instalações nucleares iranianas e o risco de proliferação no 1º dia.",
+      "content": "A segurança nuclear continua sendo o ponto central de preocupação internacional. No 1º dia, a AIEA (Agência Internacional de Energia Atômica) reportou que os ataques surpresa a Teerã incluíram alvos próximos a instalações nucleares. Ataques perto de Teerã levantaram temores de vazamento radioativo ou danos a reatores. O Irã afirma que seu programa nuclear é pacífico e que as instalações foram protegidas. Especialistas internacionais monitoram a situação com preocupação extrema. Um acidente nuclear poderia ter consequências catastróficas não apenas para o Irã, mas para toda a região e além. A AIEA solicitou acesso imediato às instalações para verificação de segurança. Há relatos não confirmados de danos a sistemas de refrigeração em alguns locais. A comunidade internacional aguarda atualizações sobre o status de segurança das instalações nucleares iranianas.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 5,
+      "title": "Estratégia de Guerra: Objetivos e Riscos no Dia 1",
+      "category": "Análise Estratégica",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "Uma análise profunda dos objetivos de longo prazo de ambos os lados no 1º dia.",
+      "content": "Estrategicamente, o 1º dia revelou os objetivos de ambos os lados no conflito. Os ataques surpresa a Teerã demonstram que os EUA buscam degradação rápida das capacidades militares iranianas. Os EUA parecem visar a destruição de infraestrutura militar, centros de comando e sistemas de defesa aérea. O Irã, por sua vez, aposta em resistência prolongada e retaliação contra interesses americanos na região. Analistas sugerem que o próximo passo será retaliação imediata do Irã contra Israel e bases dos EUA. O risco de escalação regional é extremamente alto. A possibilidade de envolvimento de atores não-estatais como Hezbollah e Houthis aumenta a complexidade. O conflito poderia evoluir para uma guerra de atrito prolongada ou para uma escalação rápida com consequências globais. As decisões tomadas nos próximos dias serão críticas para determinar a trajetória do conflito.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 6,
+      "title": "Poder em Teerã: A Cúpula Iraniana no Dia 1",
+      "category": "Liderança Iraniana",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "Acompanhamento da estrutura de comando e decisões do governo iraniano no 1º dia.",
+      "content": "A liderança iraniana enfrentou desafios sem precedentes no 1º dia do conflito. Após os ataques surpresa a Teerã que mataram o aiatolá Ali Khamenei, o conselho de aiatolás decidiu pela mobilização total de todas as forças militares. A influência da Guarda Revolucionária Islâmica cresceu significativamente durante a crise. O governo interino enfrenta pressão para responder aos ataques enquanto simultaneamente liida com a sucessão da liderança suprema. Há relatos de tensões entre diferentes facções sobre a melhor estratégia. Alguns defendem retaliação imediata e massiva, enquanto outros sugerem uma abordagem mais cautelosa. A estrutura de comando sofreu danos significativos com a morte de autoridades de alto escalão. A comunicação entre diferentes ramos das forças armadas foi comprometida. A capacidade de coordenação da resposta iraniana pode estar limitada pela situação caótica em Teerã.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 7,
+      "title": "Economia de Guerra: Mercados e Petróleo no Dia 1",
+      "category": "Economia",
+      "source": "News Hub Special Report",
+      "date": "2026-02-28",
+      "excerpt": "O impacto financeiro global e a flutuação dos preços de energia no 1º dia.",
+      "content": "Os mercados globais reagiram com volatilidade extrema no 1º dia do conflito. O petróleo Brent atingiu níveis recordes após os ataques surpresa a Teerã, com preços subindo acima de $150 por barril. A inflação global enfrenta pressão significativa com as rotas comerciais em Teerã e no Golfo Pérsico afetadas pela mobilização total. Os mercados de ações caíram em bolsas ao redor do mundo. As moedas de países aliados dos EUA se fortaleceram enquanto moedas de mercados emergentes enfraqueceram. O dólar americano se apreciou significativamente. As cadeias de suprimento global enfrentam disrupção potencial. Companhias aéreas cancelam voos para a região. Seguradoras enfrentam demandas crescentes. O setor de energia enfrenta incerteza sobre a disponibilidade de petróleo iraniano. Economistas alertam para o risco de recessão global se o conflito se prolongar.",
+      "author": "Equipe de Cobertura Especial",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 8,
+      "title": "BREAKING: EUA Destroem 17 Navios Iranianos em Operação Naval Massiva",
+      "category": "Militar",
+      "source": "Comando Central dos EUA",
+      "date": "2026-03-03",
+      "excerpt": "Operação naval sem precedentes: Forças americanas destroem frota iraniana no Golfo Pérsico.",
+      "content": "Em uma operação naval de escala massiva, as Forças Armadas dos EUA destruíram 17 navios iranianos, incluindo um submarino de classe Kilo, segundo o comandante Brad Cooper do Comando Central dos EUA. O militar afirmou em vídeo publicado que 'não há um único navio iraniano em operação no Golfo Árabe, no Estreito de Ormuz ou no Golfo de Omã'. Mais de 50.000 soldados, 200 caças, dois porta-aviões e bombardeiros dos Estados Unidos participam dos combates. Os ataques ocorrem 24 horas por dia, 7 dias por semana, 'desde o fundo do mar até o espaço e o ciberespaço'. O Irã lançou mais de 500 mísseis balísticos e mais de 2.000 drones em ataques retaliatórios. O Pentágono relata que degradou severamente as defesas aéreas iranianas e destruiu centenas de mísseis balísticos, lançadores e drones. Os EUA utilizaram um novo míssil capaz de ultrapassar 500 km/h contra alvos no Irã, um sistema que seria barrado pelo antigo Tratado INF.",
+      "author": "Comando Central dos EUA",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 9,
+      "title": "BREAKING: Conflito Entra no 6º Dia com Escalação de Ataques Aéreos",
+      "category": "Militar",
+      "source": "G1 Globo",
+      "date": "2026-03-05",
+      "excerpt": "EUA intensificam pressão pelo ar e mar enquanto Irã promete vingança contra Trump.",
+      "content": "O conflito entre Estados Unidos e Irã entrou no sexto dia nesta quinta-feira (5 de março), com intensificação dos ataques por ar e mar sem precedentes. Os EUA continuam sua campanha de bombardeios enquanto o Irã se vê dividido entre a retaliação militar e a escolha de um novo líder supremo após a morte do aiatolá Ali Khamenei. O Pentágono projeta uma escalada significativa na guerra, enquanto o Irã promete vingança contra Trump. A diplomacia global está em xeque, com a Europa entrando em rota de colisão com a Casa Branca. A Otan teve de interceptar um projétil iraniano que sobrevoou a Turquia em direção ao Mediterrâneo, sinalizando o risco crescente de envolvimento do bloco militar na guerra. Mais de mil pessoas morreram no Irã segundo a mídia estatal, enquanto os EUA identificam baixas crescentes entre suas tropas. O risco de escalação regional para envolver todo o Oriente Médio aumenta a cada hora.",
+      "author": "Redação G1",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 10,
+      "title": "BREAKING: Irã Bombardeia Sete Países; Tensão Diplomática com Europa",
+      "category": "Análise Geopolítica",
+      "source": "BBC Português",
+      "date": "2026-03-05",
+      "excerpt": "Irã expande ataques para múltiplos países enquanto EUA ameaçam Espanha sobre cooperação militar.",
+      "content": "O Irã bombardeou sete países no Oriente Médio em resposta aos ataques dos EUA e Israel, expandindo significativamente o escopo do conflito. Entre bombardeios a navios, ataques aéreos e ameaças ainda mais graves, a guerra transbordou fronteiras e colocou a diplomacia global em xeque. A Casa Branca anunciou uma cooperação militar com a Espanha, que depois negou 'de forma categórica' o acordo. Trump ameaçou na terça cortar relações comerciais com os espanhóis após negarem o uso de bases para atacar o Irã. O primeiro-ministro espanhol Pedro Sánchez classificou as ações de Washington como uma 'roleta russa' com o destino global. A porta-voz da Casa Branca afirmou que os espanhóis 'ouviram a mensagem', mas o ministro das Relações Exteriores da Espanha desmentiu a alegação apenas vinte minutos depois. A Comissão Europeia saiu em defesa da Espanha, afirmando estar 'pronta' para defender os interesses do bloco europeu.",
+      "author": "Redação BBC",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 11,
+      "title": "BREAKING: Novo Líder Supremo do Irã em Votação; Quatro Candidatos em Disputa",
+      "category": "Liderança Iraniana",
+      "source": "Reuters",
+      "date": "2026-03-05",
+      "excerpt": "Assembleia dos Peritos escolhe entre Mojtaba Khamenei e três outros candidatos para liderança suprema.",
+      "content": "Com a morte do aiatolá Ali Khamenei, a Assembleia dos Peritos, composta por 88 clérigos islâmicos, avalia quatro principais nomes para o comando do Irã em votação histórica. O preferido segundo fontes do governo dos EUA é Mojtaba Khamenei, filho do falecido líder e linha-dura, apesar das críticas internacionais à sucessão hereditária. Os outros candidatos são Alireza Arafi (interino), Mohammad-Mahdi Mirbagheri (ultraconservador) e Hassan Khomeini (moderado e neto do fundador da República Islâmica). A última vez que a assembleia teve de deliberar sobre a eleição de um líder foi há mais de 36 anos, em 1989. A escolha do novo líder supremo é crítica, pois a posição concentra o poder em Teerã e determinará a direção futura da resposta iraniana ao conflito. A votação acontece em meio a incerteza política e pressão militar extrema. A decisão terá implicações profundas para o futuro do conflito e das relações internacionais.",
+      "author": "Redação Reuters",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 12,
+      "title": "BREAKING: Crise Humanitária Agrava-se; Mais de 1.000 Mortos Relatados",
+      "category": "Humanitário",
+      "source": "ONU",
+      "date": "2026-03-05",
+      "excerpt": "Conflito deixa centenas de crianças mortas e profissionais de saúde entre as vítimas.",
+      "content": "A crise humanitária no Irã agravou-se dramaticamente com relatos de mais de 1.000 mortos e milhares de feridos. A ONG de direitos humanos Hrana (Human Rights News Agency) informou que o número de civis mortos desde 28 de fevereiro chegou a 1.097, incluindo 181 crianças menores de dez anos. Outras 880 mortes relatadas estão sob revisão. Os feridos foram 5.402, incluindo 100 crianças. Hospitais enfrentam falta de medicamentos e suprimentos médicos. Equipes médicas trabalham em condições extremas sem descanso. Há relatos de doenças epidêmicas emergindo em áreas de deslocamento. A água potável é escassa em muitas regiões. Agências humanitárias alertam para o risco de catástrofe humanitária em larga escala se o conflito continuar. O ICRC (Comitê Internacional da Cruz Vermelha) solicitou acesso a civis feridos e prisioneiros de guerra. A situação está se deteriorando rapidamente e requer ação humanitária urgente.",
+      "author": "Redação ONU",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 13,
+      "title": "Análise: Impacto Econômico Global da Guerra EUA-Irã",
+      "category": "Economia",
+      "source": "Bloomberg",
+      "date": "2026-03-04",
+      "excerpt": "Preço do petróleo sobe acima de $150; mercados globais em turbulência.",
+      "content": "Os mercados globais enfrentam turbulência extrema devido ao conflito EUA-Irã. O preço do petróleo Brent ultrapassou $150 por barril, atingindo níveis recordes não vistos em décadas. A inflação global enfrenta pressão significativa com as rotas comerciais no Golfo Pérsico comprometidas. Os mercados de ações caíram em bolsas ao redor do mundo, com perdas significativas em setores de energia, transporte e financeiro. As moedas de países aliados dos EUA se fortaleceram enquanto moedas de mercados emergentes enfraqueceram. O dólar americano se apreciou significativamente contra outras moedas. As cadeias de suprimento global enfrentam disrupção potencial com impacto em múltiplos setores. Companhias aéreas cancelam voos para a região. Seguradoras enfrentam demandas crescentes. O setor de energia enfrenta incerteza sobre a disponibilidade de petróleo iraniano. Economistas alertam para o risco de recessão global se o conflito se prolongar além de algumas semanas.",
+      "author": "Redação Bloomberg",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 14,
+      "title": "Segurança Nuclear em Risco: Instalações Iranianas sob Ameaça",
+      "category": "Segurança Nuclear",
+      "source": "AIEA",
+      "date": "2026-03-04",
+      "excerpt": "Agência Internacional de Energia Atômica monitora situação crítica em instalações nucleares iranianas.",
+      "content": "A Agência Internacional de Energia Atômica (AIEA) expressou preocupação extrema com a segurança das instalações nucleares iranianas durante o conflito. Os ataques dos EUA e Israel incluíram alvos próximos a instalações nucleares críticas. Há relatos não confirmados de danos a sistemas de refrigeração em alguns locais. Um acidente nuclear poderia ter consequências catastróficas não apenas para o Irã, mas para toda a região e além. A AIEA solicitou acesso imediato às instalações para verificação de segurança, mas enfrenta obstáculos políticos. Especialistas internacionais monitoram a situação com preocupação extrema. O Irã afirma que seu programa nuclear é pacífico e que as instalações foram protegidas. Há preocupações sobre a possibilidade de sabotagem ou ataque direto a instalações nucleares. A comunidade internacional aguarda atualizações sobre o status de segurança das instalações nucleares iranianas.",
+      "author": "Redação AIEA",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 15,
+      "title": "Análise Estratégica: Próximos Passos e Cenários Possíveis",
+      "category": "Análise Estratégica",
+      "source": "Institute for Strategic Studies",
+      "date": "2026-03-04",
+      "excerpt": "Especialistas analisam possíveis desfechos do conflito e implicações geopolíticas.",
+      "content": "Analistas estratégicos internacionais examinam possíveis desfechos do conflito EUA-Irã e suas implicações geopolíticas profundas. Há três cenários principais em discussão: 1) Resolução rápida através de negociações mediadas por potências neutras; 2) Conflito prolongado de atrito com escalação gradual; 3) Escalação rápida envolvendo atores regionais e potências globais. O risco de envolvimento de Hezbollah, Houthis e outras milícias apoiadas pelo Irã aumenta a complexidade. A possibilidade de ataques cibernéticos em larga escala é real. O cenário de pior caso envolve o uso de armas nucleares ou radiológicas. As decisões diplomáticas nos próximos dias serão críticas. O papel da China e Rússia como mediadores potenciais é importante. A Europa enfrenta pressão para escolher entre apoiar os EUA ou manter neutralidade. O resultado final determinará a ordem geopolítica global pelos próximos anos.",
+      "author": "Redação ISS",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-02-28",
+      "event": "Bombardeios Iniciais - Morte de Khamenei",
+      "description": "Os EUA e Israel lançam ataques coordenados contra Teerã, matando o aiatolá Ali Khamenei e autoridades iranianas de alto escalão. Marca o início oficial do conflito.",
+      "details": "Operação conjunta EUA-Israel com centenas de sorties aéreas, mísseis de cruzeiro e ataques de precisão contra infraestrutura militar e centros de comando em Teerã."
+    },
+    {
+      "date": "2026-03-01",
+      "event": "Retaliação Iraniana - Primeiro Ataque de Drones",
+      "description": "O Irã responde com ataques de drones contra bases dos EUA no Oriente Médio, causando primeiras baixas americanas.",
+      "details": "Seis militares americanos mortos em ataque de drone. Irã lança centenas de drones em resposta coordenada aos bombardeios iniciais."
+    },
+    {
+      "date": "2026-03-02",
+      "event": "Escalação Naval - Destruição de Navios",
+      "description": "Operações navais intensificam-se com destruição de navios iranianos no Golfo Pérsico.",
+      "details": "Submarino dos EUA afunda navio de guerra iraniano. Primeiros relatos de destruição em massa de frota iraniana."
+    },
+    {
+      "date": "2026-03-03",
+      "event": "Operação Naval Massiva - 17 Navios Destruídos",
+      "description": "Comandante do Comando Central dos EUA anuncia destruição de 17 navios iranianos, incluindo submarino.",
+      "details": "Pentágono declara que não há navio iraniano em operação no Golfo Árabe. Irã lançou 500+ mísseis balísticos e 2.000+ drones em resposta."
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Expansão Regional - Otan Intercepta Míssil Iraniano",
+      "description": "Sistema de defesa aérea da Otan intercepta míssil iraniano sobre a Turquia, sinalizando risco de envolvimento do bloco.",
+      "details": "Primeiro incidente envolvendo Otan. Destruços caem perto de base dos EUA. Pentágono minimiza risco imediato de guerra total com Otan."
+    },
+    {
+      "date": "2026-03-05",
+      "event": "Sexto Dia - Escalação Contínua e Crise de Liderança",
+      "description": "Conflito entra no sexto dia com escalação contínua. Irã bombardeia sete países. Assembleia dos Peritos vota novo líder supremo.",
+      "details": "Mais de 1.000 mortos relatados. Irã expande ataques para múltiplos países. Tensão diplomática com Europa sobre cooperação militar dos EUA."
+    }
+  ]
+}
