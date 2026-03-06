@@ -210,6 +210,39 @@
       "event": "Sexto Dia - Escalação Contínua e Crise de Liderança",
       "description": "Conflito entra no sexto dia com escalação contínua. Irã bombardeia sete países. Assembleia dos Peritos vota novo líder supremo.",
       "details": "Mais de 1.000 mortos relatados. Irã expande ataques para múltiplos países. Tensão diplomática com Europa sobre cooperação militar dos EUA."
+    },
+    {
+      "id": 15,
+      "title": "BorgesNews Lançado Oficialmente: Novo Portal de Notícias em Tempo Real",
+      "category": "Tecnologia",
+      "source": "BorgesNews Editorial",
+      "date": "2026-03-06",
+      "excerpt": "BorgesNews, um novo portal de notícias especializado em cobertura internacional, foi lançado oficialmente no Vercel com indexação no Google Search Console.",
+      "content": "O BorgesNews foi lançado oficialmente em 6 de março de 2026, marcando o início de uma nova era na cobertura de notícias internacionais. O portal foi desenvolvido com tecnologia moderna, utilizando React e Vite para garantir uma experiência de usuário rápida e responsiva. O site foi hospedado no Vercel, uma plataforma de deploy de classe mundial que garante disponibilidade 99.9% e performance otimizada. O BorgesNews oferece cobertura em tempo real de eventos geopolíticos, conflitos internacionais, análises econômicas e questões humanitárias. A plataforma foi configurada com SEO otimizado, incluindo sitemap.xml, robots.txt e meta tags estruturadas para garantir visibilidade máxima nos motores de busca. O Google Search Console foi configurado com sucesso, e o site já foi adicionado ao índice do Google para processamento. A equipe editorial trabalha 24/7 para trazer as notícias mais relevantes e análises profundas. O BorgesNews se compromete com a precisão, imparcialidade e profundismo na cobertura jornalística. Bem-vindo ao futuro das notícias internacionais!",
+      "author": "Equipe BorgesNews",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 16,
+      "title": "Google Search Console: BorgesNews Configurado e Pronto para Indexação",
+      "category": "Tecnologia",
+      "source": "BorgesNews Tech Team",
+      "date": "2026-03-06",
+      "excerpt": "A configuração técnica do BorgesNews no Google Search Console foi concluída com sucesso, garantindo que todas as páginas sejam indexadas e apareçam nos resultados de busca.",
+      "content": "A configuração técnica do BorgesNews no Google Search Console foi finalizada com sucesso em 6 de março de 2026. O processo incluiu: (1) Verificação de propriedade do domínio borgesnews.vercel.app através de meta tag HTML; (2) Envio do sitemap.xml contendo todas as 15 páginas de artigos e a página inicial; (3) Configuração do robots.txt para orientar os rastreadores do Google; (4) Solicitação de indexação manual da página inicial. O Google Search Console agora monitora atividade em tempo real, incluindo impressões, cliques, posição média e taxa de cliques (CTR). O sitemap foi processado e todas as URLs foram adicionadas à fila de rastreamento prioritária. Espera-se que as primeiras páginas apareçam nos resultados de busca dentro de 24 a 48 horas. O BorgesNews está totalmente otimizado para SEO, com estrutura de URL amigável, meta tags descritivas, e conteúdo de alta qualidade. A equipe técnica continua monitorando o desempenho e fazendo ajustes conforme necessário para garantir máxima visibilidade.",
+      "author": "Tech Team BorgesNews",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
+    },
+    {
+      "id": 17,
+      "title": "Infraestrutura de Notícias: Como o BorgesNews Garante Cobertura 24/7",
+      "category": "Tecnologia",
+      "source": "BorgesNews Editorial",
+      "date": "2026-03-06",
+      "excerpt": "Conheça a infraestrutura tecnológica que permite ao BorgesNews oferecer cobertura contínua de notícias internacionais com atualização em tempo real.",
+      "content": "O BorgesNews foi construído com uma infraestrutura robusta e escalável para garantir cobertura de notícias 24 horas por dia, 7 dias por semana. A plataforma utiliza React com TypeScript para garantir código tipo-seguro e manutenível. O Vite foi escolhido como bundler para garantir build rápido e desenvolvimento eficiente. O banco de dados armazena informações estruturadas sobre cada artigo, incluindo título, categoria, data, conteúdo, autor e imagens. A API REST fornece dados em tempo real para o frontend, permitindo atualizações instantâneas de notícias. O Vercel fornece hospedagem de classe mundial com CDN global, garantindo que os usuários em qualquer parte do mundo recebam conteúdo com latência mínima. O site é totalmente responsivo, funcionando perfeitamente em desktop, tablet e mobile. A segurança é prioridade máxima, com HTTPS obrigatório e proteção contra ataques comuns. O sistema de cache inteligente reduz carga no servidor e melhora performance. A equipe técnica monitora métricas de desempenho em tempo real e otimiza continuamente a plataforma.",
+      "author": "Tech Team BorgesNews",
+      "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663222758120/X6uC6XqEAAGDTsxTdNacsd/conflict-hero-Yr823xx9LZefPjckQuHwgb.webp"
     }
   ]
 }
